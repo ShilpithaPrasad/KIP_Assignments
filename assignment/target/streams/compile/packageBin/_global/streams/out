@@ -1,0 +1,7 @@
+[debug] Packaging C:\Users\Shilpitha\sbt_assignment\target\scala-2.12\shilpitha_2.12-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	Hello$.class
+[debug] 	  C:\Users\Shilpitha\sbt_assignment\target\scala-2.12\classes\Hello$.class
+[debug] 	Hello.class
+[debug] 	  C:\Users\Shilpitha\sbt_assignment\target\scala-2.12\classes\Hello.class
+[debug] Done packaging.
